@@ -1,4 +1,4 @@
-**KEEPER**
+## KEEPER
 A clone of Google Keep
 -uses React as frontend and motoko as backend language.
 -imitates Google Keep appearance and style
